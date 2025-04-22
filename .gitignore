@@ -1,0 +1,8 @@
+**/__pycache__
+
+/plots
+/data
+/wandb
+/coref/data
+
+BIOS.pkl
