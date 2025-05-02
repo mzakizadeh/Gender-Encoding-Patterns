@@ -28,13 +28,29 @@ For any inquiries regarding the study please feel free to contact me:
 ## Citation
 
 ```
-@misc{zakizadeh2025genderencodingpatternspretrained,
-      title={Gender Encoding Patterns in Pretrained Language Model Representations}, 
-      author={Mahdi Zakizadeh and Mohammad Taher Pilehvar},
-      year={2025},
-      eprint={2503.06734},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2503.06734}, 
+@inproceedings{zakizadeh-pilehvar-2025-gender,
+    title = "Gender Encoding Patterns in Pretrained Language Model Representations",
+    author = "Zakizadeh, Mahdi  and
+      Pilehvar, Mohammad Taher",
+    editor = "Cao, Trista  and
+      Das, Anubrata  and
+      Kumarage, Tharindu  and
+      Wan, Yixin  and
+      Krishna, Satyapriya  and
+      Mehrabi, Ninareh  and
+      Dhamala, Jwala  and
+      Ramakrishna, Anil  and
+      Galystan, Aram  and
+      Kumar, Anoop  and
+      Gupta, Rahul  and
+      Chang, Kai-Wei",
+    booktitle = "Proceedings of the 5th Workshop on Trustworthy NLP (TrustNLP 2025)",
+    month = may,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.trustnlp-main.31/",
+    pages = "489--500",
+    ISBN = "979-8-89176-233-6",
 }
 ```
