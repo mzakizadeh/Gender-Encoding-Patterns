@@ -32,18 +32,6 @@ For any inquiries regarding the study please feel free to contact me:
     title = "Gender Encoding Patterns in Pretrained Language Model Representations",
     author = "Zakizadeh, Mahdi  and
       Pilehvar, Mohammad Taher",
-    editor = "Cao, Trista  and
-      Das, Anubrata  and
-      Kumarage, Tharindu  and
-      Wan, Yixin  and
-      Krishna, Satyapriya  and
-      Mehrabi, Ninareh  and
-      Dhamala, Jwala  and
-      Ramakrishna, Anil  and
-      Galystan, Aram  and
-      Kumar, Anoop  and
-      Gupta, Rahul  and
-      Chang, Kai-Wei",
     booktitle = "Proceedings of the 5th Workshop on Trustworthy NLP (TrustNLP 2025)",
     month = may,
     year = "2025",
